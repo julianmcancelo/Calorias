@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123456789000",
+    "firebase_url": "https://calorias-ai-dev.firebaseio.com",
+    "project_id": "calorias-ai-dev",
+    "storage_bucket": "calorias-ai-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789000:android:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "com.calorias.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789000-abcdefghijklmnop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVELOPMENT_KEY_REPLACE_WITH_REAL"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456789000-abcdefghijklmnop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

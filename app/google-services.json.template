@@ -1,0 +1,18 @@
+{
+  "INSTRUCCIONES": "Este es un archivo TEMPLATE. Descargá google-services.json desde Firebase Console y reemplazá este archivo.",
+  "project_info": {
+    "project_number": "PLACEHOLDER",
+    "project_id": "PLACEHOLDER",
+    "storage_bucket": "PLACEHOLDER"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "PLACEHOLDER",
+        "android_client_info": {
+          "package_name": "com.calorias.ai"
+        }
+      }
+    }
+  ]
+}
